@@ -1,3 +1,9 @@
+Objetivo
+
+- Olhar os dados
+- Migrar de R para Python
+
+
 # *The Economist's* tracker for covid-19 excess deaths 
 
 This repository contains the data behind *The Economist’s* [tracker for covid-19 excess deaths](https://www.economist.com/graphic-detail/2020/04/16/tracking-covid-19-excess-deaths-across-countries) (which is free to read), and the code that we have used to clean, analyse and present the numbers.
